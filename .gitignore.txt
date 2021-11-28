@@ -1,0 +1,3 @@
+#ignora las carpetas
+/recuros
+
